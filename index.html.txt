@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Muhammed Jasil | Biomedical Engineer</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f5f7fa;
+color:#333;
+}
+
+header{
+background:#0a66c2;
+color:white;
+text-align:center;
+padding:40px 20px;
+}
+
+header h1{
+margin:0;
+font-size:40px;
+}
+
+header p{
+font-size:18px;
+}
+
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+h2{
+color:#0a66c2;
+border-bottom:2px solid #ddd;
+padding-bottom:10px;
+}
+
+.skills span{
+background:#e3f2fd;
+padding:8px 12px;
+margin:5px;
+display:inline-block;
+border-radius:5px;
+}
+
+.project{
+margin-bottom:20px;
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+a{
+color:#0a66c2;
+text-decoration:none;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Muhammed Jasil Shafi U P</h1>
+<p>Biomedical Engineering Undergraduate | Healthcare Technology & Medical Devices</p>
+<p>Kannur, Kerala | jasilshafi03@gmail.com</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>
+Biomedical Engineering undergraduate passionate about biomedical research,
+medical electronics, and AI-driven healthcare systems.
+Interested in developing innovative solutions that improve patient care
+and healthcare technology.
+</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+
+<div class="skills">
+<span>Python</span>
+<span>MATLAB</span>
+<span>C Programming</span>
+<span>Arduino</span>
+<span>PCB Design</span>
+<span>Tableau</span>
+<span>Excel</span>
+<span>IoMT</span>
+<span>Firebase</span>
+</div>
+
+</section>
+
+<section>
+<h2>Projects</h2>
+
+<div class="project">
+<h3>AI Clinical Decision Support System</h3>
+<p>
+Flutter-based healthcare application that analyzes symptoms,
+recommends diagnostic tests, and manages patient data using Firebase.
+</p>
+</div>
+
+<div class="project">
+<h3>Assistive Technology for Bedridden Patients</h3>
+<p>
+Healthcare solution designed to support monitoring and care for
+bedridden patients. Presented in an innovation competition.
+</p>
+</div>
+
+<div class="project">
+<h3>Arduino Digital Thermometer</h3>
+<p>
+Developed a temperature monitoring device using Arduino and
+sensor interfacing for biomedical measurements.
+</p>
+</div>
+
+</section>
+
+<section>
+<h2>Education</h2>
+
+<p>
+B.Tech – Electronics & Biomedical Engineering<br>
+Adi Shankara Institute of Engineering and Technology<br>
+CGPA: 8.17
+</p>
+
+</section>
+
+<section>
+<h2>Achievements</h2>
+
+<ul>
+<li>NPTEL Bioinstrumentation – Gold Medal (Top 5%)</li>
+<li>Winner – Healthcare Innovation Idea Pitching Competition</li>
+<li>Silver Medal – Triple Jump (KTU Athletics Meet 2026)</li>
+</ul>
+
+</section>
+
+<section>
+<h2>Contact</h2>
+
+<p>Email: jasilshafi03@gmail.com</p>
+<p>Phone: +91 9567083048</p>
+<p>LinkedIn: <a href="https://linkedin.com">linkedin.com/in/muhammed-jasil</a></p>
+
+</section>
+
+<footer>
+<p>© 2026 Muhammed Jasil | Biomedical Engineering Portfolio</p>
+</footer>
+
+</body>
+</html>
